@@ -1,6 +1,8 @@
-# Sales-Analysis# 📈 Sales Analysis Report
+## 📈 Sales Analysis Report
 
 This project presents a comprehensive **Sales Analysis** based on structured data and customer behavior trends over three months. It includes visualizations, cohort analysis, and a proposal to integrate GPT-based neural networks for customer feedback automation.
+
+Report's Also Available at [Notion Website](https://fortunate-echo-75b.notion.site/Sales-Analysis-1a6cb4cf8cca8060a3c9c363cf9431e4/)
 
 ## 📂 Contents
 
